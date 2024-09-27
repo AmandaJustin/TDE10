@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\bin\Debug\net8.0\TDE10.exe
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\bin\Debug\net8.0\TDE10.deps.json
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\bin\Debug\net8.0\TDE10.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\bin\Debug\net8.0\TDE10.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\bin\Debug\net8.0\TDE10.pdb
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\refint\TDE10.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.pdb
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\TDE10.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\TDE10\obj\Debug\net8.0\ref\TDE10.dll
